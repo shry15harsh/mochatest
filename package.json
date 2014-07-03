@@ -6,6 +6,9 @@
     "type": "git",
     "url": "git://github.com/shry15harsh/mochatest.git"
   },
+	"scripts":{
+	"test":"make test"
+},
   "dependencies": {},
   "devDependencies": {
 	"mocha":"*",
