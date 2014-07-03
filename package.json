@@ -32,5 +32,6 @@
   "bugs": {
     "url": "https://github.com/shry15harsh/mochatest/issues"
   },
-  "homepage": "https://github.com/shry15harsh/mochatest"
+  "homepage": "https://github.com/shry15harsh/mochatest",
+  "repository": "https://github.com/shry15harsh/mochatest.git"
 }
