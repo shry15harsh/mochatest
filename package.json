@@ -1,36 +1,18 @@
 {
-  "name": "TestApp",
-  "version": "0.0.1",
-  "description": "Testing of Mocha withg Chai and Strider",
-  "keywords": [
-    "test",
-    "strider"
-  ],
-  "author": "Harsh Choudhary <shry.harsh.com>",
-  "main": "index",
-  "engines": {
-    "node": ">= 0.4.x < 0.7.0"
-  },
-  "scripts": {
-    "test": "make test"
-  },
-  "devDependencies": {
-    "mocha": "*",
-    "chai": "*"
-  },
-  "directories": {
-    "test": "test"
-  },
-  "dependencies": {
-    "chai": "^1.9.1"
-  },
+  "author": "Harsh",
+  "name": "testing",
+  "version": "0.0.0",
   "repository": {
     "type": "git",
-    "url": "https://github.com/shry15harsh/mochatest.git"
+    "url": "git://github.com/shry15harsh/mochatest.git"
   },
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/shry15harsh/mochatest/issues"
-  },
-  "homepage": "https://github.com/shry15harsh/mochatest",
+  "dependencies": {},
+  "devDependencies": {
+	"mocha":"*",
+	"chai":"*"
+},
+  "optionalDependencies": {},
+  "engines": {
+    "node": "*"
+  }
 }
